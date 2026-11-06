@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Assembly-CSharp
-build_property.ProjectDir = E:\mod\DragonBoy250_pc\moddata\
+build_property.ProjectDir = e:\mod\DragonBoy250_pc\moddata\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

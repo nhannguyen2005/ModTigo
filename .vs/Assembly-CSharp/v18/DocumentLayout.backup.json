@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mod\\DragonBoy250_pc\\moddata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\autotrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\autotrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\autoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\autoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\mainmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\mainmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\automap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\automap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\autopean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\autopean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\chatpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:chatpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\char.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:char.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\autoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\autoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\mod\\dragonboy250_pc\\moddata\\mod\\autopet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:mod\\autopet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mob.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mob.cs",
+              "RelativeDocumentMoniker": "Mob.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mob.cs",
+              "RelativeToolTip": "Mob.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAWwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:09:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Math.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Math.cs",
+              "RelativeDocumentMoniker": "Math.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Math.cs",
+              "RelativeToolTip": "Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:54:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TileMap.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\TileMap.cs",
+              "RelativeDocumentMoniker": "TileMap.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\TileMap.cs",
+              "RelativeToolTip": "TileMap.cs",
+              "ViewState": "AgIAAPwCAAAAAAAAAAAAABQDAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:47:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoBoss.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoBoss.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoBoss.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoBoss.cs",
+              "RelativeToolTip": "Mod\\AutoBoss.cs",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAYwBgCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:35:00.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoPean.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoPean.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoPean.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoPean.cs",
+              "RelativeToolTip": "Mod\\AutoPean.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAqwFQBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:31:06.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoTrain.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoTrain.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoTrain.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoTrain.cs",
+              "RelativeToolTip": "Mod\\AutoTrain.cs",
+              "ViewState": "AgIAAPYDAAAAAAAAAAAAwDoEAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:24:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMap.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoMap.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoMap.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoMap.cs",
+              "RelativeToolTip": "Mod\\AutoMap.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAAWwEkCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:21:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Char.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Char.cs",
+              "RelativeDocumentMoniker": "Char.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Char.cs",
+              "RelativeToolTip": "Char.cs",
+              "ViewState": "AgIAALwDAAAAAAAAAAAWwNADAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:17:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoSkill.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoSkill.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoSkill.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoSkill.cs",
+              "RelativeToolTip": "Mod\\AutoSkill.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAwAYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:12:41.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatPopup.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\ChatPopup.cs",
+              "RelativeDocumentMoniker": "ChatPopup.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\ChatPopup.cs",
+              "RelativeToolTip": "ChatPopup.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwJIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:09:03.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoPet.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoPet.cs",
+              "RelativeDocumentMoniker": "Mod\\AutoPet.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\AutoPet.cs",
+              "RelativeToolTip": "Mod\\AutoPet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:06:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMod.cs",
+              "DocumentMoniker": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\MainMod.cs",
+              "RelativeDocumentMoniker": "Mod\\MainMod.cs",
+              "ToolTip": "E:\\mod\\DragonBoy250_pc\\moddata\\Mod\\MainMod.cs",
+              "RelativeToolTip": "Mod\\MainMod.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAwwBgBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T11:51:13.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

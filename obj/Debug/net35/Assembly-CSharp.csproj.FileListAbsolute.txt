@@ -1,0 +1,9 @@
+E:\mod\DragonBoy250_pc\moddata\bin\Debug\net35\Assembly-CSharp.dll
+E:\mod\DragonBoy250_pc\moddata\bin\Debug\net35\Assembly-CSharp.pdb
+E:\mod\DragonBoy250_pc\moddata\bin\Debug\net35\UnityEngine.dll
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly.44154EF1.Up2Date
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly-CSharp.dll
+E:\mod\DragonBoy250_pc\moddata\obj\Debug\net35\Assembly-CSharp.pdb
